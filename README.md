@@ -7,7 +7,7 @@ The ZHAW uses the Adaxes Active Directory management and automation tool (www.ad
 
 The task was, to extend the default Adaxes functionality with a non-standard functionality, allowing authorized users (HR) to request password letters in order for them to provide the password letters to end users.
 
-The needed functionality was implemented through a PowerShell module using the AGPL version of the iTextSharp library (www.itextpdf.com). As requested by the license the PowerShell module is released under the AGPL license. 
+The needed functionality was implemented through a PowerShell module using the AGPL version of the iTextSharp library (www.itextpdf.com). As requested by the license the implemented PowerShell module is released under the AGPL license. 
 
 While implementing the needed functionality in PowerShell it became evident, that there is no good example or description, how to use iTextSharp in PowerShell. Most of the found examples focus on using the iTextSharp library in a C# application or ASP.Net web. We hope that the provided library and the example code can be used by others, when trying to create PDFs in PowerShell using iTextSharp.
 
